@@ -2,3 +2,10 @@ node_modules/
 .github/
 tests/
 .env
+node_module/
+.github/
+.linkerLinkedLink/
+.coinbase_wallet/
+.run/
+.test/
+.env
